@@ -1,0 +1,9 @@
+method return time=1533671826.435770 sender=:1.21 -> destination=:1.156 serial=3324 reply_serial=54
+method call time=1533671826.437730 sender=:1.156 -> destination=:1.21 serial=55 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Signal"
+   uint32 1654
+   string ""
+   string "2 New Messages"
+   string "Most recent from: 072-722 31 67"
+   array [
+      string 
